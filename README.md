@@ -2,7 +2,7 @@
 
 This is our Pytorch implementation for the paper:
 
-> Zhizhuo Zhao, Wenpeng Lu, Xueping Peng, Lumin Xing, Weiyu Zhang, and Chaoqun Zheng(2024). Automated ICD Coding via Contrastive Learning with Back-reference and Synonym Knowledge for Smart Self-diagnosis Applications. In IEEE Transactions on Consumer Electronics, 2024.
+> Zhizhuo Zhao, Wenpeng Lu, Xueping Peng, Lumin Xing, Weiyu Zhang, and Chaoqun Zheng(2024). Automated ICD Coding via Contrastive Learning with Back-reference and Synonym Knowledge for Smart Self-diagnosis Applications. IEEE Transactions on Consumer Electronics, 2024.
 
 ![BRSK](./BRSK.png)
 
